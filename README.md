@@ -9,12 +9,10 @@
 <div style="color:black;font-size: 80px;">
 <h3 align="center"Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app.</h3>
   </div>
-  <br>
   <div style="color:black;font-size: 80px;">
     <h3 align="center">Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app. </h3>
     <h3 align="center">It supports authentication using passwords, phone numbers, popular federated identity providers like Google, Facebook and Twitter, and more.</h3> 
   </div>
-<br>
 <p align="center">
     <a href="https://github.com/D3VSJ/Firebase-Login/generate">
         <img src="https://img.shields.io/badge/Use Template-orange.svg"
