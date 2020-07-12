@@ -16,9 +16,9 @@
   </div>
 <br>
 <p align="center">
-    <a href="https://github.com/IntelLabHQ/Discord.js-desktop">
+    <a href="https://github.com/D3VSJ/Firebase-Login/generate">
         <img src="https://img.shields.io/badge/Use Template-orange.svg"
-            alt="Download latest release" height="35px">
+            alt="Use Template" height="35px">
   </a>
 </p>
 
