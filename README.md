@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/D3VSJ/Firebase-Login-Template"><img src="https://github.com/D3VSJ/Firebase-Login/blob/master/images/firebase_logo.png?raw=true" alt="Firebase Login Template" width="300"></a>
+  <a href="https://github.com/D3VSJ/Firebase-Login-Template"><img src="https://github.com/D3VSJ/Firebase-Login/blob/master/images/firebase_logo.png?raw=true" alt="Firebase Login Template" width="180"></a>
 <h1 align="center">
   Firebase Login Template
   </h1>
