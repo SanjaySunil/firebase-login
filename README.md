@@ -11,7 +11,7 @@
   </div>
   <div style="color:black;font-size: 80px;">
     <h2 align="center">Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app. </h3>
-    <h2 align="center">It supports authentication using passwords, phone numbers, popular federated identity providers like Google, Facebook and Twitter, and more.</h3> 
+    <h2 align="center">This template has a simple login form which only requires your Firebase Configuration.</h3> 
   </div>
 <p align="center">
     <a href="https://github.com/D3VSJ/Firebase-Login/generate">
