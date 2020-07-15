@@ -4,7 +4,7 @@
   Firebase Login Template
   </h1>
 <div style="color:black;font-size: 80px;">
-<h3 align="center">A easy to use login template built for Firebase Authentication.</h3><br>
+<h3 align="center">A easy to use login template built with Firebase.</h3><br>
 </div>
 <div style="color:black;font-size: 80px;">
 <h3 align="center"Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app.</h3>
