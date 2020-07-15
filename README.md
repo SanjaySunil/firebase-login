@@ -20,7 +20,7 @@
   </a>
 </p>
   <p align="center">
-    <a href="https://github.com/D3VSJ/Firebase-Login/generate">
+    <a href="https://github.com/D3VSJ/Advanced-Firebase-Login/">
         <img src="https://img.shields.io/badge/Advanced Firebase Login-yellow.svg"
             alt="Use Template" height="35px">
   </a>
