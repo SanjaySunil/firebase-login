@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/D3VSJ/Firebase-Login">
-    <img src="public/img/firebase_logo.png" alt="Logo" width="128" height="128">
+    <img src="public/img/firebase_logo.png" alt="Logo">
   </a>
 
   <h1 align="center">Firebase Login Portal</h1>
