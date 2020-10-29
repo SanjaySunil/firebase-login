@@ -1,44 +1,94 @@
-<h1 align="center">
-  <a href="https://github.com/D3VSJ/Firebase-Login-Template"><img src="https://github.com/D3VSJ/Firebase-Login/blob/master/images/firebase_logo.png?raw=true" alt="Firebase Login Template" width="200"></a>
-<h1 align="center">
-  Firebase Login Template
-  </h1>
-<div style="color:black;font-size: 80px;">
-<h3 align="center">An easy to use login template built with Firebase.</h3><br>
-</div>
-<div style="color:black;font-size: 80px;">
-<h3 align="center"Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app.</h3>
-  </div>
-  <div style="color:black;font-size: 80px;">
-    <h2 align="center">Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app. </h3>
-    <h2 align="center">This template has a simple login form which only requires your Firebase Configuration.</h3> 
-  </div>
+<!-- PROJECT LOGO -->
+<br />
 <p align="center">
-    <a href="https://github.com/D3VSJ/Firebase-Login/generate">
-        <img src="https://img.shields.io/badge/Use Template-orange.svg"
-            alt="Use Template" height="35px">
+  <a href="https://github.com/D3VSJ/Firebase-Login">
+    <img src="public/img/firebase_logo.png" alt="Logo" width="128" height="128">
   </a>
-</p>
+
+  <h1 align="center">Firebase Login Portal</h1>
+
   <p align="center">
-    <a href="https://github.com/D3VSJ/Advanced-Firebase-Login/">
-        <img src="https://img.shields.io/badge/Advanced Firebase Login-yellow.svg"
-            alt="Use Template" height="35px">
-  </a>
+    Authentication made easy with firebase.
+    <br />
+    <br />
+    <a href="https://github.com/D3VSJ/BetterDiscordPanel/issues/new?assignees=&labels=Bug&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
+    ·
+    <a href="https://github.com/D3VSJ/BetterDiscordPanel/issues/new?assignees=&labels=Suggestions&template=suggestions.md&title=%5BSUGGESTION%5D">Request Feature</a>
+    </p>
 </p>
 
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [About the Project](#about-the-project)
+* [Features](#features)
+* [Installation](#installation)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Built With](#built-with)
+* [Contact](#contact)
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+<img src="public/img/screens/login.png" alt="Screen" width="100%" height="100%">
+
+**Firebase** is a great platform which allows you to create authentication using passwords, phone numbers and other popular providers. This project allows you to register an account, verify your email and login to your account.
+
+## Features
+
+**Current Features:**
+* Email Login
+* Email Registration
+* Dashboard
+
+**Coming Soon:**
+* Reset Password
+
+## Installation
+
+1. Clone the repo
+```sh
+git clone https://github.com/D3VSJ/Firebase-Login
+```
+2. Open ```index.html``` and start using Firebase!
+
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/D3VSJ/BetterDiscordPanel/issues) for a list of proposed features (and known issues).
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+### Built With
+
+* [Firebase](https://firebase.google.com/)
 ---
 
 <div align="center">
 
+## Contact 
+
 Website : [sanjaysunil.me](https://sanjaysunil.me) &nbsp;&middot;&nbsp;
-Email : [D3VSJ@protonmail.com](mailto:D3VSJprotonmail.com) &nbsp;&middot;&nbsp;
+Email : [D3VSJ@protonmail.com](mailto:D3VSJ@protonmail.com) &nbsp;&middot;&nbsp;
 Discord : [D3VSJ#9496](https://discordapp.com/users/732336924559278181)
 
 </div>
-
-
-
-
 
 
 
