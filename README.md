@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/D3VSJ/Firebase-Login">
-    <img src="public/img/firebase_logo.png" alt="Logo" width="128" height="96">
+    <img src="img/firebase_logo.png" alt="Logo" width="128" height="96">
   </a>
 
   <h1 align="center">Firebase Login Portal</h1>
@@ -32,7 +32,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="public/img/screens/login.png" alt="Screen" width="100%" height="100%">
+<img src="img/screens/login.png" alt="Screen" width="100%" height="100%">
 
 **Firebase** is a great platform which allows you to create authentication using passwords, phone numbers and other popular providers. This project allows you to register an account, verify your email and login to your account.
 
@@ -86,7 +86,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Website : [sanjaysunil.me](https://sanjaysunil.me) &nbsp;&middot;&nbsp;
 Email : [D3VSJ@protonmail.com](mailto:D3VSJ@protonmail.com) &nbsp;&middot;&nbsp;
-Discord : [D3VSJ#9496](https://discordapp.com/users/732336924559278181)
+Discord : [D3VSJ#3158](https://discordapp.com/users/732336924559278181)
 
 </div>
 
