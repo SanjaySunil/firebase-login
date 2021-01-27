@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": ".",
+    "site": "firelogin-portal",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
