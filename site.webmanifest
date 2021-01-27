@@ -1,6 +1,6 @@
 {
-    "name": "FireAuth",
-    "short_name": "FireAuth",
+    "name": "FireLogin",
+    "short_name": "FireLogin",
     "start_url": "index.html?utm_source=homescreen",
     "scope" : "./",
     "icons": [

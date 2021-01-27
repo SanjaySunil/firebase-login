@@ -1,6 +1,7 @@
 {
   "hosting": {
-    "public": "public",
+    "public": ".",
+    "site": "fire-login-demo",
     "ignore": [
       "firebase.json",
       "**/.*",
