@@ -1,8 +1,10 @@
 /**
  * File: style.css
- * Author: Sanjay Sunil (a.k.a D3VSJ)
- * License MIT
+ * Author: Sanjay Sunil
+ * License: MIT
  */
+
+@import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
 
 html {
   height: 100%;
@@ -11,7 +13,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: "Rubik";
   background: #1c1c1c;
   color: #fff;
 }
@@ -123,8 +125,8 @@ body {
   transition: 0.5s;
 }
 
-.login-box .user-box input:focus~label,
-.login-box .user-box input:valid~label {
+.login-box .user-box input:focus ~ label,
+.login-box .user-box input:valid ~ label {
   top: -20px;
   left: 0;
   color: #03e9f4;
