@@ -1,3 +1,9 @@
+/**
+ * @file config.js
+ * @author Sanjay Sunil
+ * @license MIT
+ */
+
 var firebaseConfig = {
   apiKey: "AIzaSyCKGUmFr5B7Uag0NctkhCRDkAQoB5pYNQg",
   authDomain: "fir-login-2eaf4.firebaseapp.com",

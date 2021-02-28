@@ -13,6 +13,7 @@ firebase.auth().onAuthStateChanged(function (user) {
       var email_verified = user.emailVerified;
       if (email_verified != true) {
         // User Verification Box displayed
+        console.log("Waiting for verification ...")
         document.getElementById("user-div").style.display = "none";
         document.getElementById("login-div").style.display = "none";
         document.getElementById("registration-div").style.display = "none";
@@ -22,14 +23,8 @@ firebase.auth().onAuthStateChanged(function (user) {
         send_verification();
       } else {
         // User is logged in
-        new Noty({
-          type: 'success',
-          theme: "nest",
-          closeWith: ['button'],
-          text: "Welcome, " + email_id + "!",
-          timeout: 5000,
-          progressBar: true
-        }).show()
+        console.log("User is logged in.")
+        successNotification("Welcome, " + email_id + "!")
         document.getElementById("user-div").style.display = "block";
         document.getElementById("login-div").style.display = "none";
         document.getElementById("registration-div").style.display = "none";

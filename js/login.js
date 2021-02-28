@@ -15,12 +15,5 @@ function login() {
   promise.then((response) => {
     globalEmail = response.user.email;
   });
-  promise.catch((err) => new Noty({
-    type: 'error',
-    theme: "nest",
-    closeWith: ['button'],
-    text: err.message,
-    timeout: 5000,
-    progressBar: true
-  }).show());
+  promise.catch((err) => errorNotification(err.message));
 }
