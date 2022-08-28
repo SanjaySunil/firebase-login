@@ -83,14 +83,3 @@ Contributions are what make the open source community such an amazing place to b
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-<div align="center">
-
-## Contact
-
-Website : [sanjaysunil.net](https://sanjaysunil.net) &nbsp;&middot;&nbsp;
-Email : [sanjaysunil@protonmail.com](mailto:sanjaysunil@protonmail.com)
-
-</div>
