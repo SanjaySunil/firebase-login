@@ -27,8 +27,6 @@
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
-- [Built With](#built-with)
-- [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
 
