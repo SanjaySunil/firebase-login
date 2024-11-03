@@ -2,7 +2,7 @@
 
 **Firebase Login** is a boilerplate project that simplifies authentication using Firebase. It allows users to register, log in, and manage their accounts seamlessly with email verification.
 
-## For Business Inquiries
+## Custom Project Solutions
 
 For tailored project solutions and business inquiries, please email [contact@sanjaysunil.com](mailto:contact@sanjaysunil.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sanjaysunil).
 
