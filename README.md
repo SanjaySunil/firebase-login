@@ -1,85 +1,51 @@
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/sanjaysunil/Firebase-Login">
-    <img src="img/firebase_logo.png" alt="Logo" width="128" height="96">
-  </a>
+# Firebase Login
 
-  <h1 align="center">Firebase Login Portal</h1>
+**Firebase Login** is a boilerplate project that simplifies authentication using Firebase. It allows users to register, log in, and manage their accounts seamlessly with email verification.
 
-  <p align="center">
-    Authentication made easy with firebase.
-    <br />
-    <br />
-    <a href="https://github.com/sanjaysunil/Firebase-login/issues/new?assignees=&labels=Bug&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
-    ·
-    <a href="https://github.com/sanjaysunil/Firebase-login/issues/new?assignees=&labels=Suggestions&template=suggestions.md&title=%5BSUGGESTION%5D">Request Feature</a>
-    </p>
-</p>
+## For Business Inquiries
 
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Installation](#installation)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Built With](#built-with)
-- [Contact](#contact)
-
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
-
-<img src="img/screens/login.png" alt="Screen" width="100%" height="100%">
-
-**Firebase** is a great platform which allows you to create authentication using passwords, phone numbers and other popular providers. This project allows you to register an account, verify your email and login to your account.
+For tailored project solutions and business inquiries, please email [contact@sanjaysunil.com](mailto:contact@sanjaysunil.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sanjaysunil).
 
 ## Features
 
-**Current Features:**
-
 - Email Login
 - Email Registration
-- Dashboard
-
-**Coming Soon:**
-
-- Reset Password
+- User Dashboard
+- Easy setup with Firebase authentication
 
 ## Installation
 
-1. Clone the repo
+To set up Firebase Login, follow these steps:
 
-```sh
-git clone https://github.com/sanjaysunil/Firebase-Login
-```
-
-2. Open `index.html` and start using Firebase!
-
-<!-- ROADMAP -->
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SanjaySunil/firebase-login.git
+   ```
+2. Open the `index.html` file in your browser to start using Firebase authentication.
 
 ## Roadmap
 
-See the [open issues](https://github.com/sanjaysunil/firebase-login/issues) for a list of proposed features (and known issues).
-
-<!-- CONTRIBUTING -->
+See the [open issues](https://github.com/SanjaySunil/firebase-login/issues) for a list of proposed features and known issues.
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are welcome! If you would like to contribute, please follow these steps:
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<!-- LICENSE -->
+1. Fork the project.
+2. Create your feature branch:
+   ```bash
+   git checkout -b feature/AmazingFeature
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m 'Add some AmazingFeature'
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/AmazingFeature
+   ```
+5. Open a pull request.
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+This project is licensed under the MIT License.
